@@ -1,5 +1,5 @@
 <h1 align="center">
-    goact
+    rego
 </h1>
 
 <div align="center">
